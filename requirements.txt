@@ -2,3 +2,4 @@ mcp
 fastmcp
 psycopg2-binary
 python-dotenv
+uv

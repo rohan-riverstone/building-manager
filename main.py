@@ -2,15 +2,11 @@ from mcp.server.fastmcp import FastMCP
 import psycopg2
 from psycopg2.extras import RealDictCursor
 import os
-from datetime import datetime
 from typing import List
 import json
 import sys
-import psycopg2
-import os
 from dotenv import load_dotenv
 from datetime import datetime
-import re
 
 load_dotenv(override=True)
 # from system.config import Config 
